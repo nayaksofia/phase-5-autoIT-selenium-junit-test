@@ -1,4 +1,4 @@
-# Example-1: Upload profile image using AutoIT and Selenium jUnit. 
+# Problem Statement: Upload profile image using AutoIT and Selenium jUnit. 
 
 <img src="img/autoIT-junit-githubProfileImage-process.jpg">
 
